@@ -1,3 +1,5 @@
+# Sample parent class to demonstrate Inheritance
+
 class Chef:
 
     def make_dish(self):
